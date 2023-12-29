@@ -1,1 +1,1 @@
-# Web site domain: https://nekruzweb.github.io/video-project/
+# Web site Domain: https://nekruzweb.github.io/video-project/
